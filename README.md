@@ -13,7 +13,8 @@ I'm a **Data Scientist** working across **Applied AI and Machine Learning**, wit
 A suspicious number of my projects start with *“I wonder what happens if...”* and end with several more experiments than originally planned.
 
 
-<img width="748" height="448" alt="image" src="https://github.com/user-attachments/assets/624628df-bff9-4349-99dd-928e58310ca1" />
+<img width="600" height="387" alt="image" src="https://github.com/user-attachments/assets/2052affb-134a-4e3c-86a4-679b741619be" />
+
 
 
 ## Currently Exploring
