@@ -39,8 +39,4 @@ I use **simulation, stress testing, and sensitivity analysis** to understand how
 
 **Applied AI & Machine Learning** · AI Evaluation & Reliability · Retrieval & Reasoning · Foundation Models · Experimentation · Causal Inference · Robustness · Decision-Making Under Uncertainty
 
----
 
-> **An unexpected result isn't the end of the experiment. It's usually the interesting part.**
-
-If something here makes you wonder *“what happens if...”*, we'll probably get along.
