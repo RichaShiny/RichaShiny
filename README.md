@@ -34,39 +34,6 @@ I benchmark emerging model architectures to understand **where their advantages 
 
 I use **simulation, stress testing, and sensitivity analysis** to understand how systems behave under uncertainty, particularly when the interesting behavior lives in the tails.
 
-## Selected Projects
-
-### Nori Benchmark
-
-**What happens when a tabular foundation model meets increasingly messy data?**
-
-An independent benchmark of Nori across different data regimes, traditional ML baselines, multiple random seeds, and irrelevant-feature stress tests.
-
-*Tabular ML · Foundation Models · Benchmarking · Robustness*
-
-### Reasoning Unit RAG
-
-**What if RAG retrieved reasoning instead of chunks?**
-
-Research exploring whether sentence-, claim-, and evidence-level retrieval can improve information access for multi-hop reasoning tasks.
-
-*RAG · Information Retrieval · Multi-hop Reasoning · Evaluation*
-
-### Enterprise AI Workload Intelligence
-
-**Should every AI request really go to the same model?**
-
-A simulation and evaluation framework for workload-aware routing across heterogeneous AI systems under quality, reliability, latency, cost, and operational constraints.
-
-*AI Systems · Model Routing · Evaluation · Simulation*
-
-### RiskForge
-
-**How fragile does a system become when the market moves against it?**
-
-A quantitative risk engine combining deterministic stress scenarios, historical market calibration, correlated Monte Carlo simulation, tail-risk analysis, and parameter sensitivity.
-
-*Monte Carlo · Risk Modeling · Stress Testing · Quantitative Finance*
 
 ## What Keeps Me Curious
 
